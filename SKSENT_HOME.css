@@ -1,0 +1,138 @@
+ <style>
+            body {
+               
+            }
+
+            .user-login {
+                background-color: #080808;
+                border-radius: 8px;
+                width:270px;
+                height: 280px;
+                position: relative;
+                left: 467px;
+                
+
+            
+            }
+            h2 {
+                color: white;
+            }
+            label {
+                color: white;
+            }
+            
+        .create p {
+            color: white;
+        }
+        a {
+            color: white;
+            top: 40px;
+        }
+
+         
+       
+        .p1 p {
+          
+            font-weight: 600;
+            text-align: center;
+        }
+         h1 {
+           font-family: 'Times New Roman', Times, serif;
+            font-weight: 900;
+            text-align: center;
+          
+        }
+        .button1 button {
+            background-color: white;
+            width: 70px;
+            height: 35px;
+            border-radius: 15px;
+        }
+        .rr {
+            color: white;
+        }
+        .nav a {
+            color: #080808;
+            text-decoration: none;
+            font-weight: 900;
+            display: inline-block;
+            font-size: 19px;
+           
+        }
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline-block;
+            margin-right: 1.5em;
+            position: relative;
+            right: 25px;
+        }
+        .checklist ol li {
+            color: white;
+           
+            list-style: none;
+            padding: 0;
+            list-style-position: outside;
+            text-align: center;
+        }
+        .checklist {
+            background-color: #080808;
+            position: relative;
+            right: 400px;
+            bottom: 277px;
+            height: 280px;
+            width: 270px;
+            border-radius: 10px;
+        }
+        header button {
+            background-color: black;
+            color: white;
+            width: 80px;
+            height: 35px;
+            border-radius: 15px;
+            border-color: #080808;
+            border: none;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-weight: 400;
+            position: relative;
+            right: 40px;
+        }
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+       
+        
+        
+        .film img {
+            position: relative;
+            top: 120px;
+            width: 1000px;
+            left: 135px;
+        }
+        .filmwi img {
+            position: relative;
+            top: 200px;
+        }
+        hr {
+            position: relative;
+            top: 230px;
+            
+        }
+        .info
+        {
+            background-color: #080808;
+            position: relative;
+            top: 200px;
+            height: 100px;
+            font-family: 'Times New Roman', Times, serif;
+            font-weight: 200;
+        }
+        .info p {
+            color: white;
+        }
+    
+        </style>
