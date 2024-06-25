@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FULL-STACK DEVELOPER
 ------------------
 
-When it comes to showing creativity, I leave no box unchecked ;) With my frontend skills - I aspire to create fun, dynamic and interactive websites!
+When it comes to showing creativity, I leave no box unchecked ;) With my frontend skills - I aspire to create fun, dynamic and interactive websites! and my back-end will leave you just as impressed!
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [shatakshisingh2005@gmail.com](mailto:shatakshisingh2005@gmail.com)
