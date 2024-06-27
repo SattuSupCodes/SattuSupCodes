@@ -25,3 +25,10 @@ When it comes to showing creativity, I leave no box unchecked ;) With my fronten
 
 
 
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="center" theme="dracula" src="https://github-readme-stats.vercel.app/api/top-langs?username=sattusupcodes&show_icons=true&locale=en&layout=compact" alt="sattusupcodes" /></p>
