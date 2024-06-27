@@ -27,4 +27,4 @@ When it comes to showing creativity, I leave no box unchecked ;) With my fronten
 
 
 
-<p><img align="center" theme="dracula" src="https://github-readme-stats.vercel.app/api/top-langs?username=sattusupcodes&show_icons=true&locale=en&layout=compact" alt="sattusupcodes" /></p>
+<p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=sattusupcodes&show_icons=true&locale=en&layout=compact&theme=dracula" alt="sattusupcodes" /></p>
