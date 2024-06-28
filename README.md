@@ -28,3 +28,5 @@ When it comes to showing creativity, I leave no box unchecked ;) With my fronten
 
 
 <p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=sattusupcodes&show_icons=true&locale=en&layout=compact&theme=dracula" alt="sattusupcodes" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sattusupcodes&layout=pie)](https://github.com/sattusupcodes/github-readme-stats)
