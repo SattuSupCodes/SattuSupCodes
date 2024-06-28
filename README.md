@@ -27,6 +27,5 @@ When it comes to showing creativity, I leave no box unchecked ;) With my fronten
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sattusupcodes&layout=donut&theme=dracula)](https://github.com/sattusupcodes/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sattusupcodes&layout=pie&theme=dracula)](https://github.com/sattusupcodes/github-readme-stats)
