@@ -9,7 +9,7 @@ When it comes to showing creativity, I leave no box unchecked ;) With my fronten
 * 🌍  I'm based in India
 * ✉️  You can contact me at [shatakshisingh2005@gmail.com](mailto:shatakshisingh2005@gmail.com)
 * 🧠  I'm learning Python, AI/ML, Data Analysis
-* ⚡  I'm on a secret mission... can't reveal what tho
+* ⚡  I'm on a secret mission... 
 
 ### Skills
 
