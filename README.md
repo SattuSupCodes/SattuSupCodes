@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A WEB3-ETHEREUM-CRYPTOGRAPHY ENTHUSIAST
 ------------------
 # 💫 About Me:
-🌍  I'm based in India<br> 🧠  I'm learning Ethereum<br>⚡  I'm a pink-bow wearing woman behind the screen
+🌍  I'm based in India<br> 🧠  I'm learning Ethereum<br>⚡  my codes are not at all clean
 
 
 ## 🌐 Socials:
