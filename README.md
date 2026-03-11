@@ -1,8 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shatakshi Singh
 =======================================================================================================================================
 
-ENGINEER DISCOVERS WRITING CODES BY HERSELF--IS LEFT FLABBERGASTED AT THE BLASPHEMY 
-------------------
+AI/ML ENGINEER | WEB3 ENTHUSIAST
 # 💫 About Me:
 🌍  I'm based in India<br> 🧠  I'm learning Ethereum<br>⚡  my codes are not at all clean
 
