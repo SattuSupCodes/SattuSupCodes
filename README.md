@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI/ML ENGINEER AND WEB3 ENTHUSIAST
 
 # 💫 About Me:
-🌍  I'm based in India<br> 🧠  I'm learning Ethereum<br>⚡  my codes are not at all clean
+🌍  I'm based in India<br> 🧠  I'm learning AI Cognition<br>⚡  my codes are not at all clean
 
 
 ## 🌐 Socials:
